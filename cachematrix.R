@@ -1,5 +1,9 @@
 ## Create the inverse of a matrix, but store the result in an internal cache
-## This cache is then used for subsequent calls to the  
+## which is then used for subsequent calls to retrieve the inverse
+## 
+## Instantiate matrix instance through the makeCacheMatrix function
+## Retrieve the inverse through the cacheSolve function
+## Function assumes matrix is invertible
 
 
 ## Create matrix object that has methods for 
